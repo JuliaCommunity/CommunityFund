@@ -6,9 +6,9 @@ Welcome to the _Julia Development and Diversity Fund_ website!
 This website contains information about what the Fund is, how to apply for funding, and ongoing project endeavors.
 Here are links to some helpful pages to get started:
 
-- About 
-- How to Apply
-- Current Projects
+- [About](/about/)
+- [How to Apply](/apply/) (see especially the ["Do I Qualify?" subsection](/apply/#do_i_qualify))
+- [Current Projects](/projects/)
 
 # Interested in Getting Involved with the Fund? :hugging_face:
 
